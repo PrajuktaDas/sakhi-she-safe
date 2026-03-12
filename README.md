@@ -1,3 +1,14 @@
+# Sakhi She Safe – AI Women Safety Intelligence System
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-green)](https://sakhi-she-safe.onrender.com)
+
+AI-powered safety intelligence platform that analyzes crime patterns, environmental indicators, and temporal risk factors to estimate safety levels across locations and recommend safer travel decisions.
+
+Live Application  
+https://sakhi-she-safe.onrender.com
+
+GitHub Repository  
+https://github.com/PrajuktaDas/sakhi-she-safe
 # SAKHI-SHE SAFE  
 AI-Powered Women's Safety Intelligence System
 
