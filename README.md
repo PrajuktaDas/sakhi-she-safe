@@ -1,7 +1,7 @@
 # SAKHI-SHE SAFE  
 AI-Powered Women's Safety Intelligence System
 
-Live Demo: (Add your deployed Streamlit link here)
+Live Demo: https://sakhi-she-safe.onrender.com
 
 ---
 
