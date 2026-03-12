@@ -9,12 +9,7 @@ https://sakhi-she-safe.onrender.com
 
 GitHub Repository  
 https://github.com/PrajuktaDas/sakhi-she-safe
-# SAKHI-SHE SAFE  
-AI-Powered Women's Safety Intelligence System
 
-Live Demo: https://sakhi-she-safe.onrender.com
-
----
 
 ## Overview
 
